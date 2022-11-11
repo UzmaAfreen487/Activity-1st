@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-creating a new project
+creating a new project for exam
 </body>
 </html>
